@@ -23,7 +23,7 @@
     "envalid": "^6.0.2",
     "express": "^4.17.1",
     "http": "0.0.1-security",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "morgan": "^1.10.0",
     "ramda": "^0.27.1",
     "redis": "^3.0.2",
